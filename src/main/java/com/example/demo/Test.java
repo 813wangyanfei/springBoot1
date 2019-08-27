@@ -9,4 +9,9 @@ public class Test {
      public void testSubmit(){
          System.out.println("This is my First Submit");
      }
+
+
+     public void developBranche(){
+         System.out.println("This is developBranche");
+     }
 }
