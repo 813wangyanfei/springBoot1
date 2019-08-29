@@ -8,10 +8,12 @@ package com.example.demo;
 public class Test {
      public void testSubmit(){
          System.out.println("This is my First Submit");
+         System.out.println("Test");
      }
 
 
      public void developBranche(){
          System.out.println("This is developBranche");
      }
+
 }
