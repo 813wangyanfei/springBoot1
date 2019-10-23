@@ -17,4 +17,9 @@ public class DemoApplicationTests {
 
     }
 
+    @Test
+    public void test2(){
+
+    }
+
 }
